@@ -2,6 +2,8 @@
 
 # QuillBot 会员破解
 
+# This is a chrome extension 这是一个Chrome插件
+
 ##安装教程:
 
 1.前往旁边的release页面下载最新版zip文件
