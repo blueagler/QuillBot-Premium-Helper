@@ -1,6 +1,7 @@
 # QuillBot Premium Crack (Chrome Extension)
 
 ### This extension will automatically active when you sign in
+### ⚠️If you cannot click Paraphraser Button, please sign in again.
 #### Installation tutorial:
 
 1. Go to the release page next to download the latest version of zip file
