@@ -9,10 +9,12 @@
 - Word Limit (Unlock 10000 Word)
 - Synonyms restriction unlock
 - Document upload
-- Hidden Premium sales
+- Enlarge editor view
+
 > ### This extension will automatically active when you sign in
+> ### This extension loads remote script from my server, it will automatically update.
 > ### ⚠️ If you cannot click Paraphraser Button, please sign in again.
-> ### ⚠️ These modes (Formal, Creative, Expand, Shorten) are unable to use  because of the server verification.
+> ### ⚠️ These modes (Formal, Creative, Expand, Shorten) are unable to use because of the server verification.
 
 ## Installation tutorial:
 
