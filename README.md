@@ -14,7 +14,7 @@
 > ### This extension will automatically active when you sign in
 > ### This extension loads remote script from my server, it will automatically update.
 > ### ⚠️ If you cannot click Paraphraser Button, please sign in again.
-> ### ⚠️ These modes (Formal, Creative, Expand, Shorten) are unable to use because of the server verification.
+> ### ⚠️ These modes (Formal, Creative, Expand, Shorten) are unable to use because of the server verification.(Next version will be available)
 
 ## Installation tutorial:
 
