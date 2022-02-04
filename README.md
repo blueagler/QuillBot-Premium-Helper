@@ -4,17 +4,16 @@
 
 [![preview](https://github.com/blueagler/QuillBot-Premium-Crack/blob/main/preview.png?raw=true "preview")](http://https://github.com/blueagler/QuillBot-Premium-Crack/blob/main/preview.png?raw=true "preview")
 
-## Features
+## All Premium Features as well as a real premium user!
 
+- Premium paraphrase modes
 - Word Limit (Unlock 10000 Word)
 - Synonyms restriction unlock
-- Document upload
 - Enlarge editor view
 
 > ### This extension will automatically active when you sign in
 > ### This extension loads remote script from my server, it will automatically update.
-> ### ⚠️ If you cannot click Paraphraser Button, please sign in again.
-> ### ⚠️ These modes (Formal, Creative, Expand, Shorten) are unable to use because of the server verification.(Next version will be available)
+> ### 🎉 All Premium Features are avaliable
 
 ## Installation tutorial:
 
