@@ -13,6 +13,7 @@ https://user-images.githubusercontent.com/61572188/152649148-cdf230e4-f5ce-4d23-
 
 > ### This extension loads remote script from my server, it will automatically update.
 > ### If you see the toast,'Premium features are unavailable now, please contact me at Telegram to update new token', please notice me at telegram group.
+> ### If you are from a country without an internet freedom, such as the People's Republic of China and North Korea, please use a proxy(VPN), otherwise you will not be able to log in.
 
 ## Installation tutorial:
 
