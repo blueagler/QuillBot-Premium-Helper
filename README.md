@@ -1,6 +1,6 @@
 # QuillBot Premium Crack (Chrome Extension)
 
-## This extension will be rewrite soon.
+## This extension has been rewritten with support of MV3
 
 ## Preview
 
@@ -8,21 +8,16 @@ https://user-images.githubusercontent.com/61572188/152649148-cdf230e4-f5ce-4d23-
 
 ## Features
 
-- Paraphrase unlimited words
-- 7 Writing modes
+- Unlimited Characters
+- 7 Writing modes (When there is premium token)
 - 4 Synonyms options
 - 6000 Summarizer word limit
 - 15 Sentences processed at once
-- Unlimited Freeze Words and phrases
-- Compare Modes
-- Enlarge Editor View
 
 > ### Plagiarism Checker isn't supported, you need to buy pages
-> ### If you see the toast,'Premium features are unavailable now', telling me at telegram group.
-> ### If you are from a country without an internet freedom, such as the People's Republic of China and North Korea, please use a proxy(VPN), otherwise you will not be able to log in.
+> ### If there is no premium token, you can add your own, or wait.
 
 ## Installation tutorial:
-
 1. Go to [release page](https://github.com/blueagler/QuillBot-Premium-Crack/releases) and download the latest version of zip file
 2. Decompress it
 3. Go to Chrome's plug-in settings page
